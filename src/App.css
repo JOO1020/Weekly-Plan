@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+*{
+  border :1px solid #000 !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +37,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+/* styles/main.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.landing-page {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.start-button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.planner-page {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.template-select label {
+  display: block;
+  margin: 10px 0;
+}
+
+.download-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }

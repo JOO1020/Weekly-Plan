@@ -1,0 +1,13 @@
+.footer{
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 50px;
+    margin-top: 20px;
+    background-color: #DDD;
+}
+.footer .h1{
+    font-size: 2rem;
+    text-transform: capitalize;
+}

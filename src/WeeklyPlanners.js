@@ -120,7 +120,7 @@ const styles = {
     padding: '10px',
   },
   button: {
-    marginTop: '20px',
+    marginTop: '5px',
     padding: '10px 20px',
     fontSize: '18px',
     backgroundColor: '#007bff',

@@ -20,15 +20,6 @@ const Home = () => {
 };
 
 const styles = {
-  // container: {
-  //   display: 'flex',
-  //   flexDirection: 'column',
-  //   justifyContent: 'center',
-  //   alignItems: 'center',
-  //   height: '100vh',
-  //   backgroundColor: '#f7f7f7',
-  //   textAlign: 'center',
-  // },
   button: {
     marginTop: '20px',
     padding: '10px 20px',

@@ -10,16 +10,7 @@ import Footer from './Footer';
 const App = () => {
   return (
     <>
-    {/* 
-     <Router>
-      <div style={{ minHeight: '100vh', position: 'relative' }}>
-        <Routes>
-          <Route path="/" element={<LandingPage />} />
-          <Route path="/planner" element={<WeeklyPlanner />} />
-        </Routes>
-        <Footer />
-      </div>
-    </Router> */}
+    
       <Navbar/>
     <Container> 
     <div>

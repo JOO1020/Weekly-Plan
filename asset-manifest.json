@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Weekly-Plan/static/css/main.828563f7.css",
+    "main.js": "/Weekly-Plan/static/js/main.d101a963.js",
+    "static/js/239.c3a716a1.chunk.js": "/Weekly-Plan/static/js/239.c3a716a1.chunk.js",
+    "static/js/213.3161d0e8.chunk.js": "/Weekly-Plan/static/js/213.3161d0e8.chunk.js",
+    "static/js/732.659211a3.chunk.js": "/Weekly-Plan/static/js/732.659211a3.chunk.js",
+    "static/js/453.3334ffb5.chunk.js": "/Weekly-Plan/static/js/453.3334ffb5.chunk.js",
+    "index.html": "/Weekly-Plan/index.html",
+    "main.828563f7.css.map": "/Weekly-Plan/static/css/main.828563f7.css.map",
+    "main.d101a963.js.map": "/Weekly-Plan/static/js/main.d101a963.js.map",
+    "239.c3a716a1.chunk.js.map": "/Weekly-Plan/static/js/239.c3a716a1.chunk.js.map",
+    "213.3161d0e8.chunk.js.map": "/Weekly-Plan/static/js/213.3161d0e8.chunk.js.map",
+    "732.659211a3.chunk.js.map": "/Weekly-Plan/static/js/732.659211a3.chunk.js.map",
+    "453.3334ffb5.chunk.js.map": "/Weekly-Plan/static/js/453.3334ffb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828563f7.css",
+    "static/js/main.d101a963.js"
+  ]
+}
